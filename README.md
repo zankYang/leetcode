@@ -105,3 +105,9 @@ Se irán añadiendo soluciones en uno o varios lenguajes según el problema y el
 ---
 
 *Repositorio con fines de práctica y mejora continua. Las soluciones son propias y pueden no ser las únicas ni las más óptimas; sirven como registro de aprendizaje y referencia.*
+
+## Solved Problems
+
+### Java
+
+- `Java/1_two_sums.java`
