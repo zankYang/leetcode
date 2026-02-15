@@ -6,3 +6,7 @@ node_modules/
 package-lock.json
 package.json
 pnpm-lock.yaml
+
+Java/.idea/
+Java/out/
+Java/LeetCode.iml
