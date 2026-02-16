@@ -115,3 +115,7 @@ Se irán añadiendo soluciones en uno o varios lenguajes según el problema y el
 ### PHP
 
 - `PHP/1_two_sums.php`
+
+### TypeScript
+
+- `TypeScript/1_two_sums.ts`
