@@ -111,6 +111,7 @@ Se irán añadiendo soluciones en uno o varios lenguajes según el problema y el
 ### Java
 
 - `Java/1_two_sums.java`
+- `Java/2_palindrome_number.java`
 
 ### PHP
 
