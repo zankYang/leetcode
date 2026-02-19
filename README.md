@@ -121,3 +121,4 @@ Se irán añadiendo soluciones en uno o varios lenguajes según el problema y el
 ### TypeScript
 
 - `TypeScript/1_two_sums.ts`
+- `TypeScript/2_palindrome_number.ts`
