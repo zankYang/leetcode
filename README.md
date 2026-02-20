@@ -112,6 +112,7 @@ Se irán añadiendo soluciones en uno o varios lenguajes según el problema y el
 
 - `Java/1_two_sums.java`
 - `Java/2_palindrome_number.java`
+- `Java/3_longest_common_prefix.java`
 
 ### PHP
 
