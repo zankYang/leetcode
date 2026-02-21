@@ -118,6 +118,7 @@ Se irán añadiendo soluciones en uno o varios lenguajes según el problema y el
 
 - `PHP/1_two_sums.php`
 - `PHP/2_palindrome_number.php`
+- `PHP/3_longest_common_prefix.php`
 
 ### TypeScript
 
