@@ -124,3 +124,4 @@ Se irán añadiendo soluciones en uno o varios lenguajes según el problema y el
 
 - `TypeScript/1_two_sums.ts`
 - `TypeScript/2_palindrome_number.ts`
+- `TypeScript/3_longest_common_prefix.ts`
