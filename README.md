@@ -8,10 +8,6 @@ Repositorio personal de soluciones a problemas de LeetCode, con el objetivo de m
 - [Compromiso: un problema al día](#compromiso-un-problema-al-día)
 - [Estructura del proyecto](#estructura-del-proyecto)
 - [Lenguaje utilizado](#lenguaje-utilizado)
-- [Convenciones y formato](#convenciones-y-formato)
-- [Cómo usar este repositorio](#cómo-usar-este-repositorio)
-- [Problemas resueltos](#problemas-resueltos)
-- [Recursos y referencias](#recursos-y-referencias)
 
 ## Objetivo del repositorio
 
